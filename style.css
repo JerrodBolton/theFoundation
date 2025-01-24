@@ -1,0 +1,39 @@
+
+/* Jerrod Bolton */
+/* This is a body tage selector */
+body {
+  font: 1em sans-serif;
+  background-color: rgb(50, 49, 49);
+  color: rgb(0, 255, 225);
+  font-size: 30px
+}
+a{
+  text-align: center;
+}
+h1,p{
+text-align: center;
+}  
+/* this is anchor tag selecter */
+.linkTag,a {  
+  text-align:center;
+  color: rgb(0, 255, 225);;
+}
+/* This is a tag selector for a hove */
+a:hover {
+  color: green;
+  font-size: 60px
+}
+/* This is a class select */
+.image {  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 700px;
+}
+
+.listOfObjects {
+  text-align: left;
+  font-size: 30px;
+  color: white;
+}
