@@ -7,9 +7,11 @@ body {
   color: rgb(0, 255, 225);
   font-size: 30px
 }
+/* this is a anchor selecter  */
 a{
   text-align: center;
 }
+/* This is a selector with two elements inside of the beginning of the selector */
 h1,p{
 text-align: center;
 }  
@@ -31,7 +33,7 @@ a:hover {
   width: 700px;
   height: 700px;
 }
-
+/* this is a div class */
 .listOfObjects {
   text-align: left;
   font-size: 30px;
